@@ -1,0 +1,40 @@
+1. install the virtual serail port to insure the communication between labview and labcentre electronics :
+https://cdn.eltima.com/download/vspd.exe
+how to install virtual serial port
+https://www.youtube.com/watch?v=zvPB5f3KY20 
+
+2.before you open labview project you have to insatll control and simulation driver (just search in google for it) install only the driver corresponding to your version of labview
+2018:
+http://www.ni.com/download/labview-control-design-and-simulation-module-2018/7367/en/
+2017:
+http://www.ni.com/download/labview-control-design-and-simulation-module-2017/6715/en/
+2016:
+http://www.ni.com/download/labview-control-design-and-simulation-module-2016/6160/en/
+
+and you have to install the visa driver 
+2018:
+http://www.ni.com/download/ni-visa-18.0/7597/en/
+2017:
+http://www.ni.com/download/ni-visa-17.0/6646/en/
+2016:
+http://www.ni.com/download/ni-visa-16.0/6184/en/
+After installation:
+open the folder named Labview and open  "main"
+to find more explication the code in the folder "explaining "  
+                                                                                                                                        dont forget to press the button "debut simulation" and to put the COM that you like in "VISA RESOURCE"
+
+
+
+3.then go to the folder Mikroc where you will fin like labview the program and the explanation 
+you have to install mikroc
+https://www.youtube.com/watch?v=dA2ItzNGzU8
+
+
+4.go the Proteus Folder and explore the folder explaining and follow te steps 
+to download labcenter and install it follow this tutorial
+https://www.youtube.com/watch?v=F9KPSTXuZjY
+
+
+hope i offer you all what you need if you didn't understand something please contact me inmy git account
+
+
